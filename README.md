@@ -12,6 +12,5 @@ Run the script:
 python shape_detection.py
 
 The program will display the original image and the image with detected shapes, labeling each shape with its name.
-
 ![output](https://github.com/user-attachments/assets/f8c7c18e-57d9-4757-aa92-5e382773f5e7)
 
